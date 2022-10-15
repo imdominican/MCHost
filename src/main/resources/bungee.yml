@@ -1,0 +1,3 @@
+name: MCHost-Creation
+version: ${project.version}
+main: net.hyrical.trevon.Main
